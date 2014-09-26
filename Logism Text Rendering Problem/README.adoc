@@ -1,6 +1,6 @@
 = Problem With Logism Text Rendering Caused by Java 8 on Windows 8
 
-image:https://raw.githubusercontent.com/blghns/Various-Things/master/Logism%20Text%20Rendering%20Problem/Problem.png[Problem with Logism]
+image:img/Problem.png[Problem with Logism]
 
 == Permenant Solution
 
