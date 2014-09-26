@@ -37,5 +37,9 @@ Click OK and save your changes.
 
 image:https://raw.githubusercontent.com/blghns/Various-Things/master/Logism%20Text%20Rendering%20Problem/Run_With_Graphics_Processor.png[right click]
 
-Voila! The problem is solved! However, you have to select high-performance processor everytime you run logism. You can change default graphics processor but it didn't work for me. Experiment and see what happens!
+Voila! The problem is solved! However there is a catch!
+
+image:https://raw.githubusercontent.com/blghns/Various-Things/master/Logism%20Text%20Rendering%20Problem/Problem-Solved.png[Solved]
+
+However, you have to select high-performance processor everytime you run logism. You can change default graphics processor but it didn't work for me. Experiment and see what happens!
 
