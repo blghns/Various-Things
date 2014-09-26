@@ -16,30 +16,29 @@ If you want a quick work around and you are as lazy as I am, here is a quicker s
 
 . After install, click windows key on your keyboard and type "Configure Java" which will look like this
 
-image:https://raw.githubusercontent.com/blghns/Various-Things/master/Logism%20Text%20Rendering%20Problem/Search_Conf_Java.png[Search]
+image:img/Search_Conf_Java.png[Search]
 
 . Click on this and you will see the configuration of your Java. It will look like this
 
-image:https://raw.githubusercontent.com/blghns/Various-Things/master/Logism%20Text%20Rendering%20Problem/Java_Cont_Panel.png[Java Control Panel]
+image:img/Java_Cont_Panel.png[Java Control Panel]
 
 . Select Java Tab at the top.
 
-image:https://github.com/blghns/Various-Things/blob/master/Logism%20Text%20Rendering%20Problem/Java_Cont_Panel_JavaTab.png[Java tab]
+image:img/Java_Cont_Panel_JavaTab.png[Java tab]
 
 . Click view and you are going to see this
 
-image:https://raw.githubusercontent.com/blghns/Various-Things/master/Logism%20Text%20Rendering%20Problem/Java_Cont_Panel_View.png[View]
+image:img/Java_Cont_Panel_View.png[View]
 
 . Only enable 1.7.0_67 which is the one we have just downloaded.
 Click OK and save your changes.
 
 . Now, go to logism, right click and choose your High performance graphics processor 
 
-image:https://raw.githubusercontent.com/blghns/Various-Things/master/Logism%20Text%20Rendering%20Problem/Run_With_Graphics_Processor.png[right click]
+image:img/Run_With_Graphics_Processor.png[right click]
 
 Voila! The problem is solved! However there is a catch!
 
-image:https://raw.githubusercontent.com/blghns/Various-Things/master/Logism%20Text%20Rendering%20Problem/Problem-Solved.png[Solved]
+image:img/Problem-Solved.png[Solved]
 
 However, you have to select high-performance processor everytime you run logism. You can change default graphics processor but it didn't work for me. Experiment and see what happens!
-
