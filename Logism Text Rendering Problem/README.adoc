@@ -12,7 +12,7 @@ If you want a quick work around and you are as lazy as I am, here is a quicker s
 
 . Download and Install http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html[Java7.]
 
-	If you are using 64 bit Windows, select Windows x64, http://download.oracle.com/otn-pub/java/jdk/7u67-b01/jre-7u67-windows-x64.exe[jre-7u67-windows-x64.exe]
+.. If you are using 64 bit Windows, select Windows x64, http://download.oracle.com/otn-pub/java/jdk/7u67-b01/jre-7u67-windows-x64.exe[jre-7u67-windows-x64.exe]
 
 . After install, click windows key on your keyboard and type "Configure Java" which will look like this
 
